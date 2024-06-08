@@ -11,7 +11,7 @@
         <child>
           <object class="AdwStatusPage" id="status_page">
             <property name="title" translatable="yes">Disk Encryption</property>
-            <property name="description" translatable="yes">Leave the password fields blank to disable encryption.</property>
+            <property name="description" translatable="yes">Leave the password fields blank to disable encryption. Encryption is not supported with manual partitioning, and this configuration will be ignored if you use manual partitioning.</property>
             <child>
               <object class="AdwPreferencesPage">
                 <child>
