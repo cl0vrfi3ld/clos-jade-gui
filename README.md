@@ -1,6 +1,6 @@
 # Jade GUI
 
-The libadwaita/gtk based gui installer using jade as the backend.
+The libadwaita/gtk based gui installer using `blend-inst` as the backend. Built for clOS, forked from blendOS.
 
 ## 💡 Features
 
